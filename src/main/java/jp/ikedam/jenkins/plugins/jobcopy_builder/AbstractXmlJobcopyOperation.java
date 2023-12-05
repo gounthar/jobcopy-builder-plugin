@@ -32,7 +32,7 @@ import java.io.PrintStream;
 import java.io.StringWriter;
 import java.io.UnsupportedEncodingException;
 
-import javax.annotation.CheckForNull;
+import edu.umd.cs.findbugs.annotations.CheckForNull;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
